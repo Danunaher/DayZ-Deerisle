@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<eventgroupdef>
+	<!-- Police Events -->
+        
+	
+	 <group name="Block_Dolina">
+        <child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="0" z="0" y="0" a="335"/>
+		<child type="Land_Wreck_Harverster" spawnsecondary="false" x="-4.67969" z="35.0103" y="1.45" a="343"/>
+		<child type="Land_Wreck_Harvester_head_trailer" spawnsecondary="false" x="-4.7998" z="28.2202" y="0.83" a="193"/>
+		<child type="StaticObj_Wreck_HMMWV_DE" deloot="1" lootmax="4" lootmin="2" x="-8.48975" z="26.2202" y="0.389" a="302"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="-14.9297" z="48.4204" y="0.539999" a="300"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="-12.3999" z="56.8501" y="0.539999" a="47"/>
+		<child type="StaticObj_Wall_MilCncBarrier" spawnsecondary="false" x="-10.8198" z="60.9302" y="-0.21" a="19"/>
+		<child type="StaticObj_Wall_MilCncBarrier" spawnsecondary="false" x="-15.7998" z="62.2202" y="-0.240001" a="332"/>
+		<child type="StaticObj_Wall_MilCncBarrier" spawnsecondary="false" x="-0.969727" z="1.44043" y="-0.120001" a="320"/>
+		<child type="StaticObj_Wall_MilCncBarrier" spawnsecondary="false" x="-5.62988" z="2.33008" y="-0.120001" a="0"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="-5.92969" z="8.84033" y="0.52" a="199"/>
+		<child type="vbldr_civiliansedan_wreckedback" deloot="1" lootmax="3" lootmin="1" x="-7.09961" z="21.6001" y="-0.72" a="9"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="-2.50977" z="-1.40967" y="0.15" a="345"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="-5.45996" z="0.5" y="0" a="0"/>
+		<child type="vbldr_sign_roadblock_stop" spawnsecondary="false" x="-2.21973" z="-1.63965" y="0" a="74"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="ture" x="-10.9497" z="61.8604" y="-0.1" a="12"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="-16.6299" z="63.9004" y="-0.1" a="5"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="-12.1099" z="66.52" y="0.129999" a="348"/>
+		<child type="vbldr_sign_roadblock_stop" spawnsecondary="false" x="-12.1997" z="66.8604" y="-0.0300007" a="258"/>
+    </group>
+	
+	<!--<pos x="5496.28" z="3827.75" a="0" y="75.27" group="Airfield"/>-->
+	<group name="Airfield">
+		<child type="StaticObj_Wreck_Ural_DE" deloot="1" lootmax="3" lootmin="2" x="0" z="0" y="0" a="336"/>
+		<child type="StaticObj_Wreck_Trailer_Flat_DE" spawnsecondary="false" x="-3.27979" z="6.25" y="0.0300064" a="317"/>
+		<child type="Land_Container_1Bo_DE" deloot="0" lootmax="3" lootmin="2" x="-2.07959" z="8.32007" y="0.0374069" a="333"/>
+		<child type="StaticObj_Decal_damage_long4" spawnsecondary="false" x="-0.369629" z="8.72998" y="-1.27" a="330"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" spawnsecondary="false" x="1.22021" z="-1.79004" y="-1.27" a="14"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-1.33984" z="9.38989" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-0.0498047" z="9.97998" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-0.799805" z="10.1599" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-1.63965" z="10.3899" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-2.41992" z="11.5901" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-3.16992" z="11.73" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-2.94971" z="12.75" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-2.31982" z="13.27" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-1.19971" z="12.9399" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-4.41992" z="10.23" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-5.47998" z="10.5801" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-5.66992" z="9.76001" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-4.7998" z="9.42993" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-3.48975" z="8.08008" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="0.72998" z="0.949951" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="0.210449" z="2" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="1.12012" z="1.67993" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="0.410156" z="2.87012" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="1.65039" z="3.5" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="2.34033" z="2.97998" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="3.01025" z="3.6499" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-0.77002" z="3.1499" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-0.949707" z="3.87988" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="0.220215" z="4.27002" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-0.47998" z="4.94995" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="0.22998" z="5.69995" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="0.780273" z="6.44995" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-5.27002" z="7.09009" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-4.63965" z="6.27002" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-5.5" z="5.93994" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-4.6499" z="5.51001" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-1.83984" z="2.61011" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-2.75" z="2.63989" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-2.98975" z="3.25" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-2.47998" z="1.80005" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-1.77002" z="0.850098" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-1.00977" z="-0.610107" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-2.35986" z="0.290039" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-3.08984" z="1.30005" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-0.889648" z="-0.0900879" y="-0.969994" a="0"/>
+		<child type="bldr_plnt_b_corylusHeterophylla_2s_summer" spawnsecondary="false" x="-1.48975" z="3.07007" y="1.0503" a="0"/>
+		<child type="bldr_plnt_p_heracleum" spawnsecondary="false" x="2.03027" z="3.19995" y="-0.57" a="0"/>
+		<child type="bldr_plnt_p_heracleum" spawnsecondary="false" x="-0.47998" z="10.03" y="-0.57" a="0"/>
+		<child type="bldr_plnt_p_heracleum" spawnsecondary="false" x="-5.36963" z="10" y="-0.57" a="0"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="-22.27" z="16.3501" y="-0.869995" a="302"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="-14.3799" z="20.4199" y="-0.869995" a="289"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="-27.0298" z="16.8301" y="-0.669998" a="301"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="-3.02002" z="-23.79" y="-0.639999" a="24"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="-8.83984" z="-22.79" y="-0.649994" a="352"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="-5.1499" z="-20.96" y="-0.869995" a="11"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="1.99023" z="-23.51" y="-0.669998" a="0"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="-11.3398" z="-20.0601" y="-0.57" a="343"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="-6.20996" z="-29.8899" y="-0.269997" a="0"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="-2.85986" z="-10.3799" y="-0.269997" a="212"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="-2.66992" z="-17.6001" y="-0.269997" a="172"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="-16.9097" z="16.01" y="-0.269997" a="252"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="7.24023" z="30.2" y="-0.269997" a="47"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="23.1704" z="13.8999" y="-0.269997" a="332"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="21.3003" z="8.43994" y="-0.269997" a="243"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="20.29" z="11.6101" y="-0.659996" a="275"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="19.0801" z="15.0701" y="-0.879997" a="85"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="15.8901" z="9.41992" y="-0.769997" a="249"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="22.9204" z="8.21997" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="23.27" z="9.08008" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="21.0103" z="7.45996" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="19.9204" z="6.68994" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="24.04" z="7.01001" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="24.1104" z="7.87988" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="20.5801" z="11.1799" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="20.5801" z="11.79" y="-1.0162" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="19.0601" z="10.71" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="22.9302" z="12.75" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="23.2603" z="11.9299" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="22.0303" z="12.5901" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="22.0503" z="11.6499" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="22.29" z="14.02" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="21.4302" z="14.1001" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="21.5503" z="14.8701" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="20.4404" z="14.25" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="24.6401" z="13.54" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="24.8101" z="12.6599" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="24.02" z="14.05" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="23.5103" z="14.76" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false"  x="24.9004" z="14.6201" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="24.0903" z="15.3701" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="23.0103" z="16.03" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="24.02" z="16.6399" y="-0.969994" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="24.9404" z="16.4299" y="-0.969994" a="0"/>
+	</group>
+	
+	<!--<pos x="7201.46" z="1585.54" a="0" y="9.27" group="Stonington"/>-->
+	<group name="Stonington">
+		<child type="StaticObj_Wreck_HMMWV_DE" deloot="1" lootmax="3" lootmin="2" x="0" z="0" y="0" a="247"/>
+		<child type="StaticObj_Wreck_Ural_DE" deloot="1" lootmax="3" lootmin="2" x="3.37012" z="-3.47009" y="0.33" a="146"/>
+		<child type="StaticObj_Wreck_Decal_Big_DE" spawnsecondary="false" x="2.54004" z="-4.54004" y="-0.89" a="347"/>
+		<child type="Land_Container_1Moh_DE" deloot="0" lootmax="3" lootmin="2" x="1.54004" z="14.46" y="0.679999" a="303"/>
+		<child type="StaticObj_Wreck_Trailer_Flat_DE" spawnsecondary="false" x="8.62012" z="-7.58008" y="0.28" a="108"/>
+		<child type="StaticObj_Furniture_box_c_multi" spawnsecondary="false" x="7.31006" z="-3.01001" y="-0.92" a="0"/>
+		<child type="StaticObj_Furniture_box_c" spawnsecondary="false" x="9.06982" z="-4.85999" y="-0.6" a="0"/>
+		<child type="StaticObj_Furniture_box_c" spawnsecondary="false" x="8.7002" z="-3.98999" y="-0.6" a="279"/>
+		<child type="bldr_prop_NailBox" spawnsecondary="false" x="9.70996" z="-4.12" y="-0.882001" a="296"/>
+		<child type="bldr_prop_NailBox" spawnsecondary="false" x="9.7998" z="-3.06006" y="-0.893001" a="98"/>
+		<child type="bldr_prop_NailBox" spawnsecondary="false" x="10.1802" z="-4.07007" y="-0.882001" a="14"/>
+		<child type="bldr_prop_NailBox" spawnsecondary="false" x="10.5303" z="-3.32007" y="-0.882001" a="312"/>
+		<child type="bldr_prop_NailBox" spawnsecondary="false" x="9.5" z="-3.47998" y="-0.882001" a="323"/>
+		<child type="bldr_prop_NailBox" spawnsecondary="false" x="9.97998" z="-4.75" y="-0.882001" a="42"/>
+		<child type="bldr_prop_NailBox" spawnsecondary="false" x="10.77" z="-4.07007" y="-0.882001" a="274"/>
+		<child type="bldr_prop_NailBox" spawnsecondary="false" x="10.6099" z="-4.83008" y="-0.882001" a="40"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="6.06006" z="-4.91003" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="5.1001" z="-4.01001" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="6.66992" z="-4.31006" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="5.33984" z="-3.17004" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="6.91992" z="-3.63" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="7.93018" z="-3.73999" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="9.74023" z="-6.85999" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="8.51025" z="-7.3501" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="9.02002" z="-6.26001" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="8.22021" z="-5.29004" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="7.31982" z="-5.97998" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="6.1001" z="-1.98999" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="7.18018" z="-1.48999" y="-0.88934" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="7.18018" z="-1.48999" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="6.8501" z="-0.640015" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="5.52002" z="-1.26001" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="9.08008" z="-2.81006" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="9.68994" z="-2.32007" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="8.95996" z="-1.78003" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="8.6499" z="-8.47998" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="9.1001" z="-8.92004" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="9.95996" z="-9.17004" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="8.89014" z="-9.43005" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="9.62988" z="-10.0801" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="10.8398" z="-9.52002" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="8.06982" z="-9.72009" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="7.25" z="-9.5" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-1.52002" z="-1.57007" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-1.72998" z="-2.19006" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-1.18018" z="-2.10999" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-0.649902" z="-1.55005" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-0.0698242" z="-1.03003" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-0.129883" z="-1.73999" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="0.569824" z="-1.73999" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="0.629883" z="-0.890015" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="0.180176" z="-2.35999" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="0.879883" z="-2.6001" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="1.77002" z="-2.42004" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="0.189941" z="1.56995" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-0.529785" z="2.02991" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-1.39014" z="1.97998" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-1.16016" z="1" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-1.8999" z="0.919922" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-2.68018" z="1.35999" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-2.75977" z="0.27002" y="-0.570001" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="-2.43994" z="-0.470093" y="-0.570001" a="0"/>
+		<child type="bldr_plnt_p_Phragmites" spawnsecondary="false" x="-1.1001" z="-2" y="-0.77" a="0"/>
+		<child type="bldr_plnt_p_Phragmites" spawnsecondary="false" x="5.47021" z="-2.20007" y="-0.67" a="0"/>
+		<child type="bldr_plnt_b_corylusHeterophylla_1s_summer" spawnsecondary="false" x="4.60986" z="-6.77002" y="-0.27" a="0"/>
+		<child type="bldr_plnt_b_corylusHeterophylla_1s_summer" spawnsecondary="false" x="6.37012" z="-5.84009" y="-0.27" a="0"/>
+		<child type="bldr_plnt_b_corylusHeterophylla_1s_summer" spawnsecondary="false" x="6.2002" z="-7.54004" y="-0.27" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="3.62012" z="-7.5" y="-0.439711" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="5.10986" z="-8.06006" y="-0.47" a="0"/>
+		<child type="vbldr_c_grassdry3_summer" spawnsecondary="false" x="6.52002" z="-8.65002" y="-0.45993" a="0"/>
+		<child type="vbldr_b_betulanana_1s_summer" spawnsecondary="false" x="9.66016" z="-9.29004" y="-0.27" a="0"/>
+		<child type="vbldr_b_betulanana_1s_summer" spawnsecondary="false" x="5.76025" z="-4.35999" y="-0.27" a="0"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="-13.3101" z="-2.77002" y="0.0799999" a="249"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="1" lootmax="4" lootmin="2" x="27.5698" z="-10.5901" y="0.11" a="45"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="16.8599" z="-0.570068" y="-0.400001" a="308"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="20.9102" z="0.369995" y="-0.400001" a="7"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="24.0698" z="1.25" y="-0.280001" a="326"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="36.9302" z="-7.06006" y="-0.280001" a="281"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="36.9399" z="-13.53" y="-0.280001" a="75"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="37.1401" z="-10.3501" y="-0.400001" a="272"/>
+		<child type="vbldr_sign_roadblock_stop" spawnsecondary="false" x="37.4102" z="-11.2101" y="-0.358041" a="3"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="-10.1899" z="17.09" y="-0.0400009" a="317"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="-7.12988" z="21.1499" y="-0.0400009" a="297"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="-11.25" z="21.6699" y="0.33" a="311"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="-21.5298" z="-7" y="-0.47" a="288"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="-22.04" z="-4.44006" y="-0.490001" a="73"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="-21.73" z="-0.130005" y="-0.47" a="267"/>
+		<child type="StaticObj_Roadblock_Wood_Long_DE" spawnsecondary="false" x="-24.2998" z="-2.96008" y="-0.690001" a="278"/>
+		<child type="vbldr_sign_roadblock_stop" spawnsecondary="false" x="-24.4199" z="-2.25" y="-0.63" a="168"/>
+	</group>
+	
+	<!--<pos x="3704.65" z="6266.48" a="0" y="32.6872" group="Westbrook"/>-->
+	<group name="Westbrook">
+		<child type="Land_Wreck_hb01_aban2_police_DE" deloot="1" lootmax="3" lootmin="1" x="0" z="0" y="0" a="62.9981"/>
+		<child type="StaticObj_Wreck_Uaz_DE" deloot="1" lootmax="3" lootmin="1" x="-11.6599" z="-26.3501" y="0.3409" a="153.001"/>
+		<child type="StaticObj_Wreck_Trailer_Flat_DE" spawnsecondary="false" x="-11.71" z="-20.8799" y="0.7355" a="206.999"/>
+		<child type="Land_wreck_truck01_aban1_green_DE" deloot="1" lootmax="3" lootmin="1" x="-7.78979" z="-14.2798" y="-0.553898" a="215.999"/>
+		<child type="bldr_misc_concreteblock2_stripes" spawnsecondary="false" x="6.90015" z="7.22021" y="-0.9702" a="241.709"/>
+		<child type="bldr_misc_concreteblock2_stripes" spawnsecondary="false" x="5.15015" z="14.8501" y="-1.3" a="196.714"/>
+		<child type="bldr_misc_concreteblock2_stripes" spawnsecondary="false" x="13.02" z="15.0498" y="-1.583" a="205.711"/>
+		<child type="Land_Wreck_sed02_aban2_grey_DE" deloot="1" lootmax="3" lootmin="1" x="11.1101" z="21.98" y="-1.7087" a="35.9986"/>
+		<child type="Land_Wreck_hb02_aban1_black_DE" deloot="1" lootmax="3" lootmin="1" x="14.1501" z="27.1299" y="-2.1175" a="27.0002"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="13.9202" z="15.5" y="-1.3642" a="18.0002"/>
+		<child type="StaticObj_Roadblock_Wood_Small_DE" spawnsecondary="false" x="4.94019" z="15.73" y="-1.0527" a="44.9988"/>
+		<child type="bldr_sign_roadblock_stop" spawnsecondary="false" x="12.49" z="15.48" y="-1.445" a="297.002"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-8.92993" z="-12.02" y="-0.1003" a="23.1303"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-7.21997" z="-13.8901" y="-0.0865974" a="174.083"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-10.0298" z="-9.12988" y="-0.192997" a="290.286"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-5.82983" z="-10.1201" y="-0.2085" a="183.755"/>
+		<child type="bldr_plnt_c_GrassDryTall_summer" spawnsecondary="false" x="-6.69995" z="-14.6899" y="-0.0373993" a="28.378"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-11.2798" z="-14.5601" y="-0.149399" a="136.169"/>
+		<child type="bldr_plnt_c_GrassDryTall3_summer" spawnsecondary="false" x="-5.78979" z="-14.7202" y="-0.0529976" a="131.365"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="-10.9399" z="-21.48" y="-0.0510979" a="337.783"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="-12.3499" z="-21.1602" y="-0.0588989" a="329.994"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-6.02002" z="-17.5498" y="-0.127899" a="137.197"/>
+		<child type="bldr_plnt_c_GrassDryTall2_summer" spawnsecondary="false" x="-8.45996" z="-10.4302" y="-0.137798" a="319.732"/>
+		<child type="bldr_plnt_c_GrassDryTall2_summer" spawnsecondary="false" x="-9.95996" z="-14.1201" y="-0.0979996" a="54.9593"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="-9.87988" z="-16.4302" y="-0.0673981" a="192.934"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-10.3999" z="-15.9897" y="-0.1423" a="308.16"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-10.45" z="-15.3901" y="-0.0725975" a="230.89"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-10.6199" z="-14.8398" y="-0.0752983" a="201.934"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-8.51001" z="-10.9502" y="-0.112797" a="146.953"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-8.6499" z="-10.8101" y="-0.186497" a="131.625"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-6.93994" z="-10.5498" y="-0.197498" a="290.873"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-8.02979" z="-11.1899" y="-0.111599" a="40.9035"/>
+		<child type="bldr_plnt_c_GrassDryTall_summer" spawnsecondary="false" x="-3.69995" z="-11.8398" y="-0.0776978" a="147.913"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-7.26001" z="-13.23" y="-0.0930977" a="210.464"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="-4.57983" z="-12.9399" y="-0.1064" a="172.592"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-6.85986" z="-11.0801" y="-0.191299" a="321.919"/>
+		<child type="bldr_plnt_c_GrassDryTall3_summer" spawnsecondary="false" x="-3.85986" z="-12.79" y="-0.0792999" a="94.6989"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-6.52002" z="-13.6802" y="-0.163097" a="275.549"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-6.2998" z="-15.7202" y="-0.0705986" a="161.864"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-12.96" z="-18.23" y="-0.139797" a="62.2574"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-12.1199" z="-22.8101" y="-0.1264" a="265.922"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="-13.8899" z="-22.5" y="-0.0601997" a="60.3752"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-10.8599" z="-22.2202" y="-0.121498" a="263.262"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-14.1099" z="-22.9399" y="-0.0607986" a="336.572"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-13.6799" z="-19.71" y="-0.136799" a="321.076"/>
+		<child type="bldr_plnt_c_GrassDryTall_summer" spawnsecondary="false" x="-10.5298" z="-23.1499" y="-0.00239944" a="149.951"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="-11.5398" z="-22.2598" y="-0.0522003" a="104.372"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-11.6899" z="-20.5498" y="-0.129799" a="323.882"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-12.0698" z="-21.9399" y="-0.1283" a="293.061"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-10.77" z="-21.9502" y="-0.1217" a="234.563"/>
+		<child type="bldr_plnt_c_GrassDryTall2_summer" spawnsecondary="false" x="-12.6499" z="-19.46" y="-0.0836983" a="263.09"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-12.7898" z="-20.1499" y="-0.1357" a="310.705"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-13.1599" z="-18.8198" y="-0.0662994" a="307.947"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-13.7798" z="-27.7202" y="-0.135799" a="254.637"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-15.51" z="-26.7798" y="-0.137699" a="236.066"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-14.3098" z="-24.04" y="-0.133999" a="66.2044"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-12.5498" z="-23.04" y="-0.129097" a="12.9122"/>
+		<child type="bldr_plnt_c_GrassDryTall2_summer" spawnsecondary="false" x="-14.74" z="-24.0498" y="-0.081398" a="354.42"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-12.25" z="-27.8599" y="-0.1283" a="183.188"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-15.2798" z="-26.5098" y="-0.063797" a="262.123"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-9.91992" z="-26.9502" y="-0.108097" a="295.467"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-11.72" z="-27.4199" y="-0.0477982" a="4.73183"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-9.58984" z="-28.9502" y="-0.1007" a="251.84"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-11.2" z="-28.8799" y="-0.117699" a="117.852"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-11.21" z="-26.1699" y="-0.046299" a="53.2063"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-9.77002" z="-28.04" y="-0.104298" a="229.112"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-10.5698" z="-26.4302" y="-0.0415001" a="217.978"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-9.88989" z="-25.3599" y="-0.1091" a="142.849"/>
+		<child type="bldr_plnt_c_GrassDryTall2_summer" spawnsecondary="false" x="-17.1399" z="-28.52" y="-0.0861969" a="173.914"/>
+		<child type="bldr_plnt_c_GrassDryTall2_summer" spawnsecondary="false" x="-18.76" z="-27.9302" y="-0.0861969" a="143.723"/>
+		<child type="bldr_plnt_c_GrassDryTall3_summer" spawnsecondary="false" x="-17.1299" z="-28.98" y="-0.0382004" a="317.285"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="-18.3699" z="-27.1099" y="-0.0671005" a="329.286"/>
+		<child type="bldr_plnt_c_GrassDryTall2_summer" spawnsecondary="false" x="-14.46" z="-27.77" y="-0.0839005" a="275.59"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-15.21" z="-29.46" y="-0.139797" a="27.7352"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-13.9399" z="-29.9302" y="-0.139797" a="70.6979"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-15.5798" z="-29.6802" y="-0.139797" a="220.444"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="-1.32983" z="2.16992" y="-0.507999" a="340.122"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-1.3999" z="1.74023" y="-0.563" a="332.879"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-0.959961" z="-0.169922" y="-0.435799" a="127.062"/>
+		<child type="bldr_plnt_c_GrassDryTall2_summer" spawnsecondary="false" x="-2.17993" z="1.01025" y="-0.4688" a="32.2802"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="-3.12988" z="-1.66992" y="-0.352299" a="148.465"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="0.220215" z="-3.1001" y="-0.430397" a="50.4091"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="-2.01001" z="-3.95996" y="-0.302498" a="125.646"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-2.73999" z="-1.5" y="-0.362797" a="127.803"/>
+		<child type="bldr_plnt_c_GrassDryTall3_summer" spawnsecondary="false" x="-1.25" z="0.0400391" y="-0.4081" a="110.89"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-2.94995" z="-1.58008" y="-0.357399" a="270.915"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="-1.81982" z="-2.93994" y="-0.408497" a="135.055"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="-1.19995" z="-1.12988" y="-0.4002" a="330.543"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="0.77002" z="2.81006" y="-0.649899" a="334.493"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="0.700195" z="-0.529785" y="-0.5201" a="224.824"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="0.930176" z="-0.0698242" y="-0.465199" a="143.359"/>
+		<child type="bldr_plnt_c_GrassDryTall2_summer" spawnsecondary="false" x="2.30005" z="0.459961" y="-0.532898" a="108.65"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="2.07007" z="0.760254" y="-0.521099" a="27.0858"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="1.29004" z="0.680176" y="-0.574997" a="181.357"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="6.25" z="6.45996" y="-0.864498" a="62.0396"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="4.73999" z="8.12988" y="-0.978498" a="249.28"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="5.09009" z="8.1001" y="-0.914" a="102.033"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="5.69019" z="6.45996" y="-0.924898" a="18.0686"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="5.72998" z="7.99023" y="-0.998798" a="251.126"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="5.09009" z="6.2998" y="-0.904198" a="62.8764"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="5.48999" z="15.1699" y="-1.2765" a="157.729"/>
+		<child type="bldr_plnt_c_GrassDryTall2_summer" spawnsecondary="false" x="6.86011" z="14.71" y="-1.3083" a="146.659"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="6.53003" z="13.7202" y="-1.2986" a="138.732"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="6.14014" z="15.0801" y="-1.2897" a="275.019"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="5.22998" z="15.8701" y="-1.3808" a="160.855"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="6.97021" z="14.9502" y="-1.3052" a="67.1124"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="12.1301" z="23.1001" y="-2.1151" a="204.711"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="13.2002" z="21.71" y="-1.9759" a="5.41175"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="13" z="22.7998" y="-2.0569" a="211.125"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="13.27" z="22.04" y="-2.0792" a="331.127"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="11.5701" z="21.75" y="-1.9056" a="37.5219"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="13.26" z="23.5103" y="-2.1276" a="246.383"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="10.0901" z="18.9902" y="-1.6526" a="7.85454"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="10.3901" z="19.1099" y="-1.6723" a="172.595"/>
+		<child type="bldr_plnt_c_GrassDryTall_summer" spawnsecondary="false" x="9.93018" z="19.3999" y="-1.6328" a="258.966"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="10.1702" z="19.8999" y="-1.7196" a="158.041"/>
+		<child type="bldr_plnt_c_GrassDryTall2_summer" spawnsecondary="false" x="10.4001" z="19.2603" y="-1.7025" a="313.355"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="11.3201" z="19.3599" y="-1.7247" a="14.9234"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="12.1101" z="17.1299" y="-1.6087" a="237.527"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="13.3701" z="17.4702" y="-1.6851" a="9.90133"/>
+		<child type="bldr_plnt_c_GrassDryTall2_summer" spawnsecondary="false" x="13.1401" z="17.4902" y="-1.6951" a="300.343"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="12.27" z="15.79" y="-1.5411" a="127.935"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="13.6201" z="16.2002" y="-1.6237" a="337.479"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="13.01" z="16.48" y="-1.6119" a="276.353"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="11.0801" z="13.8901" y="-1.388" a="268.218"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="11.8501" z="15.5801" y="-1.5116" a="314.68"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="11.4502" z="15.5" y="-1.49" a="13.4579"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="12.8701" z="14.73" y="-1.5812" a="57.7633"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="12.4302" z="15.1499" y="-1.5126" a="322.379"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="12.7202" z="14.1001" y="-1.4671" a="1.31176"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="15.6501" z="24.9199" y="-2.3831" a="326.198"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="15.48" z="26.02" y="-2.4505" a="98.9142"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="14.3501" z="25.7998" y="-2.3288" a="135.189"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="15.3301" z="24.7798" y="-2.2844" a="103.252"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="14.3" z="24.5103" y="-2.2322" a="237.444"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="14.0701" z="25.8501" y="-2.3234" a="144.071"/>
+		<child type="bldr_plnt_c_GrassDryTall3_summer" spawnsecondary="false" x="13.79" z="28.6899" y="-2.5025" a="140.84"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="14.9302" z="27.6802" y="-2.5536" a="54.1912"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="14.1401" z="28.3198" y="-2.512" a="199.26"/>
+		<child type="bldr_plnt_c_GrassDryTall_summer" spawnsecondary="false" x="14.8301" z="28.1099" y="-2.4669" a="122.174"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="14.5901" z="27.6802" y="-2.4749" a="259.946"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="15.4502" z="27.5" y="-2.5529" a="312.26"/>
+		<child type="bldr_plnt_c_GrassDryTall2_summer" spawnsecondary="false" x="7.62012" z="8.1001" y="-1.0022" a="359.566"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="7.22021" z="8.12988" y="-0.974098" a="33.0415"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="6.71021" z="7.43994" y="-0.925398" a="315.168"/>
+		<child type="bldr_plnt_c_GrassDry_summer" spawnsecondary="false" x="7.73999" z="8.1001" y="-1.0587" a="10.8117"/>
+		<child type="bldr_plnt_c_GrassDry2_summer" spawnsecondary="false" x="5.90015" z="7.62012" y="-0.911999" a="68.5886"/>
+		<child type="bldr_plnt_c_GrassDryTall2_summer" spawnsecondary="false" x="7.86011" z="8.7002" y="-1.0378" a="133.241"/>
+		<child type="bldr_plnt_p_heracleum" spawnsecondary="false" x="5.87012" z="6.56006" y="-0.682697" a="0"/>
+		<child type="bldr_plnt_p_heracleum" spawnsecondary="false" x="10.2102" z="19.4902" y="-1.3698" a="35.9988"/>
+		<child type="bldr_plnt_p_heracleum" spawnsecondary="false" x="13.6201" z="29.1899" y="-2.2362" a="162"/>
+		<child type="bldr_plnt_p_heracleum" spawnsecondary="false" x="-1.87988" z="-3.5" y="-0.197899" a="333.001"/>
+		<child type="bldr_plnt_p_heracleum" spawnsecondary="false" x="-4.61987" z="-13" y="0.1618" a="351"/>
+		<child type="bldr_plnt_p_heracleum" spawnsecondary="false" x="-13" z="-19.5498" y="0.245602" a="126"/>
+		<child type="bldr_plnt_p_heracleum" spawnsecondary="false" x="-15.1899" z="-29.5601" y="0.0580025" a="251.999"/>
+		<child type="bldr_plnt_p_heracleum" spawnsecondary="false" x="-9.43994" z="-28.6802" y="0.214901" a="315.001"/>
+	</group>
+	
+	<!-- Train -->
+	
+		<!--<pos x="4350.81" z="11001.2" a="0" y="10.3426" group="Swamp"/>-->
+	<group name="Swamp">
+		<child type="StaticObj_Wreck_Train_742_Blue_DE" deloot="1" lootmax="3" lootmin="1" x="0" z="0" y="0" a="172.802"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="-1.85986" z="15.0996" y="-1.72822" a="352.802"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="-4.02002" z="32.2002" y="-1.74078" a="352.802"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Tanker_Mil_DE" deloot="1" lootmax="3" lootmin="1" x="-5.78027" z="46.3994" y="-0.377769" a="352.802"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Tanker_Mil_DE" deloot="1" lootmax="3" lootmin="1" x="-7.81982" z="55.2998" y="-0.38157" a="8.99992"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Tanker_Mil_DE" deloot="1" lootmax="3" lootmin="1" x="-8.97021" z="66.7002" y="-0.38536" a="342"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="-10.98" z="80.8994" y="-1.77147" a="0"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="-12.3398" z="98.0996" y="-1.74327" a="352.802"/>
+		<child type="Land_Container_1Mo_DE" deloot="1" lootmax="3" lootmin="1" x="-10.9399" z="77" y="0.1813" a="0"/>
+		<child type="Land_Container_1Moh_DE" deloot="1" lootmax="3" lootmin="1" x="-10.9302" z="84.7998" y="0.1863" a="180"/>
+		<child type="Land_Container_1Mo_DE" deloot="1" lootmax="3" lootmin="1" x="-12.3701" z="98.5" y="0.2214" a="352.802"/>
+		<child type="Land_Container_1Mo_DE" deloot="1" lootmax="3" lootmin="1" x="-4.06982" z="32.7998" y="0.2264" a="352.802"/>
+		<child type="Land_Container_1Moh_DE" deloot="1" lootmax="3" lootmin="1" x="-1.8501" z="15.2998" y="0.2339" a="352.802"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-7.56982" z="53.8994" y="-2.01504" a="0"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-8.04004" z="51.2002" y="-2.09445" a="62.9981"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-10.6299" z="68.7998" y="-2.24297" a="62.9981"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-10.6699" z="74.3994" y="-2.06058" a="306"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-6.78027" z="75.2002" y="-2.21323" a="35.9988"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-5.39014" z="57.8994" y="-1.85307" a="35.9988"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-4.08008" z="51.8994" y="-2.06557" a="189"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-2.74023" z="8.09961" y="-2.24815" a="80.9936"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-4.18018" z="4.7998" y="-2.43184" a="44.9988"/>
+		<child type="bldr_plnt_b_prunusSpinosa_1s" spawnsecondary="false" x="-5" z="3.5" y="-1.29847" a="44.9988"/>
+		<child type="bldr_plnt_p_Phragmites" spawnsecondary="false" x="-9.68994" z="54.3994" y="-2.13141" a="35.9988"/>
+		<child type="bldr_plnt_d_FagusSylvatica_fallen" spawnsecondary="false" x="0.259766" z="45.8994" y="-2.30124" a="242.998"/>
+		<child type="bldr_plnt_d_FagusSylvatica_stumpb" spawnsecondary="false" x="-3.12988" z="56.5" y="-1.71479" a="288.001"/>
+		<child type="bldr_plnt_p_Phragmites" spawnsecondary="false" x="-3.43994" z="51.2998" y="-2.15545" a="35.9988"/>
+		<child type="bldr_plnt_t_BetulaPendula_2w" spawnsecondary="false" x="-11.5601" z="36.2002" y="-0.50418" a="35.9988"/>
+		<child type="bldr_plnt_b_naked_2s" spawnsecondary="false" x="-11.5698" z="68" y="-0.48077" a="333.001"/>
+		<child type="bldr_plnt_b_caraganaArborescens_2s_summer" spawnsecondary="false" x="-6.51025" z="73.3994" y="-0.663179" a="62.9981"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-17.52" z="75.0996" y="-2.66034" a="90"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-19.3701" z="72.7002" y="-3.78783" a="100.796"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-16.8003" z="69.5" y="-2.70248" a="100.796"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-1.05029" z="79" y="-2.3174" a="100.796"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-2.01025" z="82.2002" y="-2.88881" a="100.796"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-4.1499" z="79.8994" y="-2.25802" a="100.796"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-0.379883" z="62.2998" y="-2.20911" a="100.796"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-2.08008" z="60" y="-1.36504" a="100.796"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-3.85986" z="67.5" y="-2.45958" a="163.8"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-12.4199" z="44" y="-2.47465" a="163.8"/>
+		<child type="bldr_plnt_b_prunusSpinosa_2s_summer" spawnsecondary="false" x="-12.8701" z="46.0996" y="-1.58837" a="35.9988"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-3.60986" z="8.59961" y="-2.01081" a="26.9993"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-4.60986" z="5.2998" y="-1.72432" a="26.9993"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="1.94971" z="7.2002" y="-1.74472" a="26.9993"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="3.58008" z="10.7998" y="-2.34472" a="26.9993"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-2.8999" z="-3.40039" y="-2.4542" a="26.9993"/>
+	</group>
+	
+	<!--<pos x="8936.49" z="12715.6" a="0" y="8.74872" group="UnderwaterCity"/>-->
+	<group name="UnderwaterCity">
+		<child type="StaticObj_Wreck_Train_742_Red_Mil_DE" deloot="1" lootmax="3" lootmin="1" x="0" z="0" y="0" a="340.2"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="5.00977" z="-14.3994" y="-1.7318" a="340.2"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="10.8701" z="-30.5" y="-1.73688" a="340.2"/>
+		<child type="Land_Train_Wagon_Box_Mil_DE" deloot="1" lootmax="3" lootmin="1" x="15.8994" z="-44.2998" y="-0.540501" a="340.2"/>
+		<child type="Land_Train_Wagon_Box_Mil_DE" deloot="1" lootmax="3" lootmin="1" x="20" z="-55.6992" y="-0.53804" a="340.2"/>
+		<child type="Land_Train_Wagon_Box_Mil_DE" deloot="1" lootmax="3" lootmin="1" x="24.1201" z="-67.0996" y="-0.53044" a="340.2"/>
+		<child type="Land_Train_Wagon_Box_Mil_DE" deloot="1" lootmax="3" lootmin="1" x="28.2295" z="-78.3994" y="-0.5354" a="340.2"/>
+		<child type="StaticObj_Wreck_BMP1_DE" deloot="1" lootmax="3" lootmin="1" x="16.3594" z="-17.8994" y="-1.70016" a="216.002"/>
+		<child type="Land_Container_1Moh_DE" deloot="1" lootmax="3" lootmin="1" x="12.5596" z="-35.0996" y="0.20766" a="160.2"/>
+		<child type="Land_Container_1Moh_DE" deloot="1" lootmax="3" lootmin="1" x="9.22949" z="-25.8994" y="0.21031" a="340.2"/>
+		<child type="Land_Container_1Mo_DE" deloot="1" lootmax="3" lootmin="1" x="5.14941" z="-14.6992" y="0.22025" a="340.2"/>
+	</group>
+	
+	<!--<pos x="5875.91" z="13478.6" a="0" y="6.64544" group="Portland"/>-->
+	<group name="Portland">
+		<child type="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="30.5992"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="6.23975" z="16" y="0.34391" a="12.5998"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Tanker_Mil_DE" deloot="1" lootmax="3" lootmin="1" x="-10.3301" z="-9.5" y="0.86158" a="71.9987"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" deloot="0" lootmax="3" lootmin="1" x="-17.1001" z="-15.8994" y="-0.64018" a="0"/>
+		<child type="StaticObj_Wreck_Train_742_Blue_Mil_DE" deloot="1" lootmax="3" lootmin="1" x="-22.7402" z="-29.2998" y="0.26849" a="53.9971"/>
+		<child type="CraterLong" spawnsecondary="false" x="-26.6001" z="-30.3994" y="-1.18187" a="242.998"/>
+		<child type="CraterLong" spawnsecondary="false" x="-25.7803" z="-33.1992" y="-1.04496" a="224.999"/>
+		<child type="CraterLong" spawnsecondary="false" x="-13" z="-11" y="-0.8908" a="234"/>
+		<child type="CraterLong" spawnsecondary="false" x="-17.6104" z="-9.5" y="-0.79937" a="342"/>
+		<child type="CraterLong" spawnsecondary="false" x="-17.1401" z="-17" y="-1.01628" a="180"/>
+		<child type="CraterLong" spawnsecondary="false" x="-3.41016" z="-5.19922" y="-0.82374" a="224.999"/>
+		<child type="CraterLong" spawnsecondary="false" x="-3.51025" z="-7.69922" y="-0.54888" a="198"/>
+		<child type="StaticObj_Garbage_Pile3" spawnsecondary="false" x="-3.90039" z="-8.69922" y="0.0980697" a="279.006"/>
+		<child type="StaticObj_Garbage_Pile4" spawnsecondary="false" x="-0.0302734" z="10.1006" y="-0.85723" a="333.001"/>
+		<child type="StaticObj_Garbage_Pile6" spawnsecondary="false" x="-1.39014" z="12" y="-0.9016" a="54.0004"/>
+		<child type="StaticObj_Garbage_Pile7" spawnsecondary="false" x="-0.830078" z="13.3008" y="-0.32591" a="35.9988"/>
+		<child type="StaticObj_Garbage_Pile8" spawnsecondary="false" x="-5.64014" z="-3.59961" y="-0.41267" a="324.001"/>
+		<child type="StaticObj_Garbage_Pile7" spawnsecondary="false" x="-8.7002" z="-7.19922" y="-0.38227" a="333.001"/>
+		<child type="Land_Container_1Moh_DE" deloot="1" lootmax="3" lootmin="1" x="-17.0703" z="-19.6992" y="1.30981" a="0"/>
+		<child type="Land_Container_1Mo_DE" deloot="1" lootmax="3" lootmin="1" x="-20.0103" z="-12.5" y="1.29073" a="47.4995"/>
+		<child type="Land_Container_1Mo_DE" deloot="1" lootmax="3" lootmin="1" x="0.109863" z="0.200195" y="1.94648" a="30.5998"/>
+		<child type="Land_Container_1Mo_DE" deloot="1" lootmax="3" lootmin="1" x="6.44971" z="16.8008" y="2.29114" a="12.5998"/>
+		<child type="CraterLong" spawnsecondary="false" x="-21.8403" z="-13.6992" y="-0.39443" a="44.9988"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-23.3901" z="-13.5" y="0.2647" a="0"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-21.8501" z="-15.5" y="-0.19279" a="224.999"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-25.4102" z="-16.3994" y="0.00217009" a="35.9988"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-7.04004" z="-9.89941" y="-0.18878" a="306"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-2" z="-7.69922" y="0.0636001" a="90"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="4.88965" z="9.10059" y="0.0740199" a="0"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="4.23975" z="6.7002" y="0.00652981" a="306"/>
+		<child type="bldr_plnt_b_caraganaArborescens_2s_summer" spawnsecondary="false" x="1.5498" z="10.3008" y="1.22542" a="288.001"/>
+		<child type="bldr_plnt_b_corylusHeterophylla_2s_summer" spawnsecondary="false" x="7" z="4.2002" y="2.0524" a="44.9988"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-6.11035" z="-10.2998" y="-0.28772" a="44.9988"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-1.34033" z="-9" y="-0.25472" a="44.9988"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-10.6104" z="-4.2998" y="-0.25747" a="62.9981"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-14.8604" z="-2.7998" y="-0.10466" a="351"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-18.6401" z="-6.19922" y="-0.02039" a="315.001"/>
+		<child type="bldr_plnt_b_betulaNana_1s_summer" spawnsecondary="false" x="-16.7002" z="-27.2998" y="0.14598" a="324.001"/>
+		<child type="bldr_plnt_t_BetulaPendulaE_3s_summer" spawnsecondary="false" x="-32.1699" z="-34" y="5.08156" a="0"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-25.9902" z="-14.3994" y="0.17214" a="0"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-24.6001" z="-19.2998" y="-0.12354" a="44.9988"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-20.4004" z="-19.2998" y="-0.31181" a="62.9981"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-11.5703" z="-24.2998" y="0.0432701" a="26.9993"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-12" z="-18.2998" y="0.00782013" a="21.5987"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-7.82031" z="-18.3994" y="0.03229" a="48.6009"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-9.24023" z="-14.0996" y="0.00200987" a="57.5969"/>
+		<child type="bldr_plnt_b_corylusHeterophylla_2s_summer" spawnsecondary="false" x="-25.04" z="-17.2998" y="2.76255" a="18.0002"/>
+	</group>
+	
+	<!--<pos x="5873.17" z="14567.6" a="0" y="7.00187" group="Portlandstadt"/>-->
+	<group name="Portlandstadt">
+		<child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="1" lootmax="3" lootmin="1" x="0" z="0" y="0" a="0"/>
+		<child type="StaticObj_Wreck_Train_742_Red_DE" deloot="0" lootmax="3" lootmin="1" x="0.160156" z="-15.1992" y="1.72427" a="0"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Flat_DE" deloot="1" lootmax="3" lootmin="1" x="-0.0297852" z="17.2002" y="-0.00256014" a="0"/>
+		<child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="1" x="0.0200195" z="31.8008" y="1.20383" a="0"/>
+		<child type="Land_Train_Wagon_Box_Mil_DE" deloot="1" lootmax="3" lootmin="1" x="-0.00976563" z="43.9004" y="1.20884" a="0"/>
+		<child type="Land_Train_Wagon_Box_Mil_DE" deloot="1" lootmax="3" lootmin="1" x="-0.00976563" z="56" y="1.20883" a="0"/>
+		<child type="StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE" deloot="0" lootmax="3" lootmin="1" x="-0.0200195" z="70.6006" y="-4.00543e-05" a="0"/>
+		<child type="StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE" deloot="0" lootmax="3" lootmin="1" x="-0.0297852" z="87.8008" y="-0.00257015" a="0"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Tanker_DE" deloot="0" lootmax="3" lootmin="1" x="-0.0200195" z="102" y="1.37796" a="0"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Tanker_DE" deloot="0" lootmax="3" lootmin="1" x="-0.0200195" z="113.4" y="1.37797" a="0"/>
+	</group>
+	
+	<!--<pos x="3604.07" z="8136.58" a="0" y="14.7794" group="Swampzivil"/>-->
+	<group name="Swampzivil">
+		<child type="StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="0"/>
+		<child type="StaticObj_Wreck_Train_742_Red_DE" deloot="0" lootmax="3" lootmin="1" x="0.149902" z="15.23" y="1.7394" a="0"/>
+		<child type="StaticObj_Train_Wagon_Flat_Industrial_Planks_DE" deloot="0" lootmax="3" lootmin="1" x="0.0100098" z="-17.1899" y="-0.000100136" a="0"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Tanker_DE" deloot="0" lootmax="3" lootmin="1" x="0.0300293" z="-31.4302" y="1.3779" a="0"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Tanker_DE" deloot="0" lootmax="3" lootmin="1" x="0.0400391" z="-42.7402" y="1.3754" a="0"/>
+		<child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="1" x="0.0598145" z="-54.4502" y="1.1987" a="0"/>
+		<child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="1" x="0.0500488" z="-66.5303" y="1.1912" a="0"/>
+		<child type="StaticObj_Train_Wagon_Flat_Industrial_Planks_DE" deloot="0" lootmax="3" lootmin="1" x="0.0100098" z="-81.1602" y="-0.0176001" a="0"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Flat_Mil_DE" deloot="1" lootmax="3" lootmin="1" x="0.0300293" z="-98.3398" y="-0.0176001" a="0"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="10.22" z="3.48975" y="-0.0823002" a="206.999"/>
+		<child type="Land_Wreck_hb02_aban1_red_DE" deloot="0" lootmax="3" lootmin="1" x="5.83984" z="24.8398" y="-0.0903997" a="153.001"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-1.03003" z="-8.8999" y="-0.0648994" a="0"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="0.709961" z="-37.6201" y="-0.0848999" a="90"/>
+		<child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="-1.29004" z="-34.3398" y="-0.27" a="54.0004"/>
+		<child type="Land_Ruin_HouseSmall1_Half" deloot="0" lootmax="3" lootmin="1" x="10.6199" z="-15.7202" y="-0.0393" a="90"/>
+		<child type="StaticObj_Rail_ConcreteRamp" spawnsecondary="false" x="10.51" z="-9.8501" y="-1.3906" a="0"/>
+		<child type="bldr_mil_reinforcedtank2_shelter2" spawnsecondary="false" x="10.8" z="-5.3999" y="1.064" a="0"/>
+		<child type="bldr_misc_boardspack3" spawnsecondary="false" x="6.33984" z="-5.14014" y="0.6864" a="306"/>
+		<child type="bldr_misc_pallets1" spawnsecondary="false" x="14.03" z="-2.72021" y="0.3127" a="0"/>
+		<child type="bldr_misc_pallets3" spawnsecondary="false" x="11.3398" z="-2.97998" y="0.7347" a="54.0004"/>
+		<child type="bldr_misc_pallet" spawnsecondary="false" x="12.7" z="-4.58008" y="0.0790997" a="35.9988"/>
+		<child type="bldr_misc_timbers4" spawnsecondary="false" x="6.68994" z="0.439941" y="0.5191" a="0"/>
+		<child type="bldr_misc_timbers1" spawnsecondary="false" x="4.01001" z="6.02979" y="0.7336" a="180"/>
+		<child type="bldr_misc_tirepile" spawnsecondary="false" x="11.1699" z="-24.3301" y="4.175" a="0"/>
+		<child type="Land_dead_neutral_baric_7" spawnsecondary="false" x="10.55" z="-2.87988" y="1.2446" a="200.001"/>
+		<child type="Land_dead_neutral_baric_2" spawnsecondary="false" x="10.9399" z="-19.4702" y="0.3149" a="189"/>
+		<child type="Land_dead_neutral_baric_6" spawnsecondary="false" x="11.5" z="-24.23" y="0.822001" a="306"/>
+		<child type="Land_dead_neutral_baric_3" spawnsecondary="false" x="4.31982" z="-22.7803" y="0.3723" a="315.001"/>
+		<child type="Land_Fence_factory" spawnsecondary="false" x="24.3098" z="7.66016" y="-1.2368" a="90"/>
+		<child type="Land_Fence_factory" spawnsecondary="false" x="24.3198" z="2.02979" y="-1.2493" a="90"/>
+		<child type="Land_Fence_factory" spawnsecondary="false" x="24.3198" z="-3.60986" y="-1.2518" a="90"/>
+		<child type="Land_Fence_factory" spawnsecondary="false" x="24.3" z="-9.22998" y="-1.2618" a="90"/>
+		<child type="Land_Fence_factory" spawnsecondary="false" x="24.3" z="-14.8799" y="-1.2613" a="90"/>
+		<child type="Land_Fence_factory" spawnsecondary="false" x="24.24" z="-20.52" y="-1.3013" a="90"/>
+		<child type="Land_Fence_factory" spawnsecondary="false" x="21.73" z="-34.8003" y="-1.1768" a="91.7906"/>
+		<child type="Land_Fence_factory" spawnsecondary="false" x="21.5598" z="-40.4502" y="-1.1871" a="91.7906"/>
+		<child type="Land_Fence_factory" spawnsecondary="false" x="24.4099" z="13.2998" y="-1.222" a="91.7906"/>
+		<child type="Land_Fence_factory" spawnsecondary="false" x="22.02" z="17.8701" y="-1.2148" a="37.8006"/>
+		<child type="Land_Fence_factory" spawnsecondary="false" x="17.54" z="21.3398" y="-0.8354" a="37.8006"/>
+		<child type="Land_Towers6" spawnsecondary="false" x="15.71" z="19.5298" y="5.9108" a="0"/>
+		<child type="Land_concrete_block_9" spawnsecondary="false" x="15.97" z="14.5898" y="-1.477" a="35.9988"/>
+		<child type="bldr_prop_PowerGenerator" spawnsecondary="false" x="12.48" z="-12.9199" y="-0.0230999" a="315.001"/>
+		<child type="bldr_prop_PartyTent" spawnsecondary="false" x="14.98" z="-14.0503" y="-0.0100002" a="1.80128"/>
+		<child type="StaticObj_Furniture_hospital_bench" spawnsecondary="false" x="13.9299" z="-15.3701" y="-0.0213995" a="270"/>
+		<child type="StaticObj_Furniture_Vojenska_palanda" spawnsecondary="false" x="14.3699" z="-12.25" y="-0.0190001" a="0"/>
+		<child type="StaticObj_Furniture_foldingbed_open" spawnsecondary="false" x="15.8599" z="-12.6201" y="-0.0286999" a="8.99992"/>
+		<child type="StaticObj_Furniture_Dkamna_bila" spawnsecondary="false" x="15.52" z="-13.6401" y="-0.0191002" a="90"/>
+		<child type="StaticObj_Misc_Range_Roof" spawnsecondary="false" x="14.8499" z="3.58984" y="1.2732" a="270"/>
+		<child type="bldr_plnt_b_corylusHeterophylla_2s_summer" spawnsecondary="false" x="21.6599" z="-9.1499" y="-0.368999" a="0"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="16.8098" z="-13.04" y="-1.8072" a="0"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="19.28" z="-11.9902" y="-1.7318" a="0"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="20.3398" z="-15.02" y="-1.8789" a="14.4017"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="19.54" z="-5.68994" y="-1.8132" a="14.4017"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="2.42993" z="-39.6899" y="-0.3815" a="0"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="5.88989" z="-36.8999" y="-0.3815" a="8.99992"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="9.41992" z="-42.9702" y="-0.6276" a="8.99992"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="4.84985" z="-30.75" y="-0.381599" a="99.0064"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-4.18018" z="-46" y="-0.409699" a="26.9993"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-3.71997" z="-41.8003" y="-0.3815" a="35.9988"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-7.58008" z="-43.3999" y="-1.2069" a="35.9988"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-5.29004" z="-35.8901" y="-0.4408" a="35.9988"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-9.5" z="-34.6899" y="-0.96" a="99.0064"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-4.44995" z="-29.3599" y="-0.4092" a="117.002"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="11.76" z="13.4199" y="-0.8363" a="26.9993"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="11.0999" z="17.6401" y="-0.8513" a="34.1993"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="5.43994" z="10.02" y="-0.4815" a="28.7998"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="5.70996" z="15.29" y="-0.4815" a="55.8007"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="5.33984" z="20.46" y="-0.4815" a="55.8007"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-2.44019" z="24.5" y="-0.4815" a="82.8054"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-6.21997" z="20.0601" y="-0.869699" a="183.601"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-4.21997" z="16.3301" y="-0.5086" a="93.5816"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-4.75" z="6.31982" y="-0.4815" a="93.5816"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-9.34009" z="5.52002" y="-0.7289" a="138.6"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-8.54004" z="10.1997" y="-0.5996" a="165.598"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-3.86011" z="-5.47021" y="-0.4815" a="165.598"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-7.95996" z="-6.89014" y="-0.4815" a="210.599"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-4.20996" z="-17.2603" y="-0.4864" a="210.599"/>
+		<child type="bldr_plnt_b_phragmitesAustralis_summer" spawnsecondary="false" x="-7.94995" z="-18.6099" y="-0.694" a="251.999"/>
+		<child type="bldr_plnt_b_prunusSpinosa_2s_summer" spawnsecondary="false" x="3.97998" z="17.1099" y="1.6698" a="26.9993"/>
+		<child type="StaticObj_Garbage_Pile2" spawnsecondary="false" x="-4.97998" z="-9.18018" y="-0.5676" a="62.9981"/>
+		<child type="StaticObj_Garbage_Pile4" spawnsecondary="false" x="-3.25" z="-11.4399" y="-0.915" a="198"/>
+		<child type="StaticObj_Garbage_Pile6" spawnsecondary="false" x="5.05981" z="-6.43994" y="-0.3171" a="62.9981"/>
+		<child type="StaticObj_Garbage_Pile3" spawnsecondary="false" x="4.02002" z="-7.51025" y="0.274301" a="333.001"/>
+		<child type="StaticObj_Garbage_Pile2" spawnsecondary="false" x="12.5898" z="-2.27002" y="0.2463" a="117.002"/>
+		<child type="StaticObj_Garbage_Pile1" spawnsecondary="false" x="9.55005" z="-24.9502" y="0.3668" a="71.9987"/>
+		<child type="StaticObj_Garbage_Container_Glass" spawnsecondary="false" x="4.53003" z="-0.620117" y="0.7825" a="80.9936"/>
+		<child type="StaticObj_Garbage_Pile4" spawnsecondary="false" x="5.56982" z="-1.18994" y="-0.00510025" a="126"/>
+		<child type="bldr_plnt_b_corylusHeterophylla_2s_summer" spawnsecondary="false" x="-6.48999" z="-4.8501" y="1.7335" a="26.9993"/>
+		<child type="bldr_plnt_b_betulaNana_1s_summer" spawnsecondary="false" x="13.3599" z="6.89014" y="0.811501" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="11.78" z="-1.05029" y="0.3639" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="10.8198" z="-0.919922" y="0.2987" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="10.55" z="-2.53027" y="0.3362" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="9.33984" z="-2.45996" y="0.4631" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="9.90991" z="-3.83008" y="0.4051" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="10.1699" z="-5" y="0.3785" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="9.19995" z="-4.18018" y="0.4777" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="13.3198" z="0.640137" y="0.4054" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="8.1499" z="-4.78027" y="0.3581" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="8.06982" z="-3.75" y="0.3735" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="7.05981" z="-4.18018" y="0.3881" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="6.09985" z="-3.26025" y="0.3981" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="4.12988" z="-4.47998" y="0.3881" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="3.05005" z="-0.220215" y="0.3881" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="4.25" z="-2.43994" y="0.3881" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="4.97998" z="-3.57031" y="0.3707" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="10.4099" z="5.41992" y="0.3717" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="10.3398" z="4.54004" y="0.3729" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="10.3599" z="3.81006" y="0.3807" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="9.22998" z="3.87012" y="0.39" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="10.0898" z="2.60986" y="0.3769" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="9.10986" z="2.81006" y="0.3948" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="8.65991" z="2.31982" y="0.2645" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="7.72998" z="2.69971" y="0.3432" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="7.81982" z="3.93994" y="0.3657" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="7.43994" z="5.0498" y="0.3432" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="8.45996" z="6.16016" y="0.2878" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="7.20996" z="6.5" y="0.3432" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="12.3198" z="5.48975" y="0.3357" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="4.25" z="-16.6602" y="0.3505" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="3.60986" z="-17.3301" y="0.3506" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="4.48999" z="-18" y="0.3506" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="4.60986" z="-19.5103" y="0.3506" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="3.46997" z="-20.4102" y="0.3506" a="0"/>
+		<child type="bldr_plnt_c_GrassDry3_summer" spawnsecondary="false" x="4.55981" z="-21.5" y="0.3506" a="0"/>
+	</group>
+	
+	<!--    Convoys     -->
+    
+    <group name="Abandoned_1">
+        <child type="Land_Wreck_V3S_DE" deloot="1" lootmax="3" lootmin="2" x="0" z="0" a="42.800"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-0.349" z="-1.252" a="45.575"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-1.577" z="-10.871" a="0"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-6.421" z="-15.165" a="174.362"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-21.742" z="-19.327" a="330.736"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-17.860" z="-28.331" a="163.723"/>
+        <child type="Land_Wreck_offroad02_aban1_DE" deloot="1" lootmax="3" lootmin="2" x="-21.371" z="-19.243" a="339.889"/>
+        <child type="Land_wreck_truck01_aban2_green_DE" deloot="1" lootmax="3" lootmin="2" x="-6.068" z="-17.091" a="358.195"/>
+        <child type="Land_wreck_truck01_aban1_green_DE" deloot="1" lootmax="3" lootmin="2" x="-2.029" z="-13.583" a="6.961"/>
+        <child type="StaticObj_Wreck_BRDM_DE" deloot="1" lootmax="3" lootmin="2" x="-17.305" z="-29.343" a="0"/>
+    </group>
+    <group name="Abandoned_2">
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="0" z="0" a="266.407"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="5.242" z="21.793" a="5.286"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="3.392" z="10.454" a="25.912"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-31.581" z="7.590" a="281.233"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-7.314" z="6.913" a="286.647"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-0.110" z="7.367" a="247.328"/>
+        <child type="StaticObj_Wreck_BMP2_DE" deloot="1" lootmax="3" lootmin="2" x="-29.744" z="6.677" a="281.104"/>
+        <child type="StaticObj_Wreck_Ural_DE" deloot="1" lootmax="3" lootmin="2" x="1.379" z="9.086" a="223.736"/>
+        <child type="Land_Wreck_V3S_DE" deloot="1" lootmax="3" lootmin="2" x="-8.375" z="7.284" a="284.842"/>
+        <child type="StaticObj_Wreck_Uaz_DE" deloot="1" lootmax="3" lootmin="2" x="0.562" z="-0.015" a="287.678"/>
+        <child type="StaticObj_Wreck_BRDM_DE" deloot="1" lootmax="3" lootmin="2" x="4.784" z="21.874" a="194.859"/>
+    </group>
+    <group name="Abandoned_3">
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="0" z="0" a="142.967"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-5.323" z="10.334" a="153.667"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="9.347" z="-10.342" a="134.330"/>
+        <child type="StaticObj_Wreck_Uaz_DE" deloot="1" lootmax="3" lootmin="2" x="-9.127" z="17.177" a="145.675"/>
+        <child type="Land_wreck_truck01_aban2_green_DE" deloot="1" lootmax="3" lootmin="2" x="0.775" z="-0.222" a="145.546"/>
+        <child type="Land_wreck_truck01_aban1_green_DE" deloot="1" lootmax="3" lootmin="2" x="-4.731" z="10.653" a="156.761"/>
+        <child type="Land_Wreck_hb01_aban1_white_DE" deloot="1" lootmax="2" lootmin="2" x="-8.959" z="20.259" a="66.649"/>
+        <child type="Land_Wreck_offroad02_aban2_DE" deloot="1" lootmax="3" lootmin="2" x="9.812" z="-10.736" a="131.623"/>
+        <child type="StaticObj_Wreck_Decal_Small1_DE" spawnsecondary="false" x="-9.434" z="20.466" a="73.224"/>
+        <child type="StaticObj_Wreck_Decal_Small1_DE" spawnsecondary="false" x="-9.245" z="16.426" a="336.924"/>
+    </group>
+    <group name="Abandoned_4">
+        <child type="Land_wreck_truck01_aban1_green_DE" deloot="1" lootmax="3" lootmin="2" x="0" z="0" a="303.664"/>
+        <child type="Land_wreck_truck01_aban2_green_DE" deloot="1" lootmax="3" lootmin="2" x="-11.639" z="4.566" a="56.981"/>
+        <child type="StaticObj_Wreck_BMP2_DE" deloot="1" lootmax="3" lootmin="2" x="-29.326" z="-5.471" a="61.493"/>
+        <child type="StaticObj_Wreck_Uaz_DE" deloot="1" lootmax="3" lootmin="2" x="-8.036" z="-2.888" a="313.977"/>
+        <child type="StaticObj_Wreck_T72_Chassis_DE" deloot="1" lootmax="4" lootmin="2" x="-8.205" z="-30.628" a="256.868"/>
+        <child type="StaticObj_Wreck_BMP1_NoPlacement_DE" deloot="1" lootmax="3" lootmin="2" x="44.021" z="14.552" a="307.918"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="59.875" z="9.595" a="85.600"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="56.739" z="13.023" a="302.117"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="12.155" z="-4.446" a="122.212"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-17.238" z="-11.394" a="68.454"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="3.662" z="-6.062" a="309.594"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="0.639" z="0.190" a="228.764"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="2.214" z="-33.018" a="69.099"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-3.213" z="-14.619" a="0"/>
+    </group>
+    <group name="Abandoned_5">
+        <child type="StaticObj_Wreck_BMP2_DE" deloot="1" lootmax="3" lootmin="2" x="0" z="0" a="96.558"/>
+        <child type="StaticObj_Wreck_Ural_DE" deloot="1" lootmax="3" lootmin="2" x="-21.046" z="-2.778" a="101.070"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-21.551" z="-3.034" a="270.662"/>
+        <child type="Land_Wreck_offroad02_aban1_DE" deloot="1" lootmax="3" lootmin="2" x="-16.754" z="-11.858" a="6.832"/>
+        <child type="StaticObj_Wreck_BMP1_NoPlacement_DE" deloot="1" lootmax="3" lootmin="2" x="-41.793" z="-16.217" a="70.904"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-16.602" z="-11.642" a="8.508"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-45.665" z="-16.781" a="250.035"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-39.339" z="-14.569" a="65.747"/>
+    </group>
+     <group name="Abandoned_6">
+        <child type="Land_Wreck_V3S_DE" deloot="1" lootmax="3" lootmin="2" x="0" z="0" a="107.000"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-1.637" z="0.332" a="278.783"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="0.890" z="-29.997" a="3.996"/>
+        <child type="Land_wreck_truck01_aban2_green_DE" deloot="1" lootmax="3" lootmin="2" x="0.584" z="-31.408" a="19.853"/>
+        <child type="Land_wreck_truck01_aban1_green_DE" deloot="1" lootmax="3" lootmin="2" x="46.020" z="-21.250" a="286.776"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="73.426" z="-29.452" a="274.013"/>
+        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="46.463" z="-21.050" a="106.613"/>
+        <child type="StaticObj_Wreck_Uaz_DE" deloot="1" lootmax="3" lootmin="2" x="73.262" z="-29.805" a="279.170"/>
+    </group>
+</eventgroupdef>
